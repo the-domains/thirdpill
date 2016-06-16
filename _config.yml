@@ -1,0 +1,28 @@
+name: thirdpill
+favicon: null
+layout_spectrum: 0.5207535780500621
+typography_spectrum: 0.2777468138374388
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.8040966826956719
+  lightness: 0.8625159058719873
+  saturation: 0.15123154921457171
+  rhythmicContrast: 0.91165138524957
+purpose: []
